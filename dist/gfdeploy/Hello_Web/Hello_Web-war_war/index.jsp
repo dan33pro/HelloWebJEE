@@ -12,7 +12,7 @@
         <title>Quien eres</title>
     </head>
     <body style="margin: 0; padding: 0; box-sizing: border-box; width: 100vw; height: 100vh; display: flex; align-items: center; justify-content: center; background: buttonface">
-        <article style="display: flex; align-items: center; justify-content: space-around; width: 60vw; height: 20vh; box-shadow: 2px 2px 2px black; padding: 20px; border-radius: 12px; background: white">
+        <article style="display: flex; align-items: center; justify-content: space-around; width: 60vw; height: 30vh; box-shadow: 2px 2px 2px black; padding: 20px; border-radius: 12px; background: white">
             <h2>Ingrese su información</h2>
             <form name="Registro Entrada" action="response.jsp" style="display: grid; grid-template-colums: repeat(4, 1fr); gap: 10px">
                 <div style="display: flex; flex-direction: column; gap: 5px">
